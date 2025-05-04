@@ -1,36 +1,37 @@
-# Arduino Course | دوره آموزش آردوینو
+# Arduino Course
 
 Welcome to the **Arduino Course** repository!  
-به مخزن رسمی دوره آموزش آردوینو خوش آمدید!
+This repository contains a comprehensive and practical course designed to teach you the fundamentals of Arduino programming and hardware through hands-on examples and real-world applications.
 
-This is a hands-on course designed to take you from beginner to advanced level in Arduino programming and hardware interaction. It includes real-world examples, diagrams, and well-commented code.
-
-این دوره، شامل آموزش گام‌به‌گام برنامه‌نویسی آردوینو و کار با قطعات مختلف الکترونیکی است که با پروژه‌های عملی همراه شده و برای مبتدی‌ها تا پیشرفته‌ها مناسب است.
+Whether you're a beginner just getting started or someone looking to expand their skills, this course will guide you step-by-step through a variety of essential topics and exciting projects.
 
 ---
 
-## 🎯 سرفصل‌های دوره
+## 🎯 What You'll Learn
 
-- آشنایی مقدماتی با میکروکنترلرها و برد آردینو  
-- کدنویسی آردوینو با زبان C++  
-- مبانی کار با سخت‌افزار آردوینو  
-- راه‌اندازی سنسورها و ماژول‌ها  
-- راه‌اندازی موتورهای DC و کنترل سرعت آن  
-- راه‌اندازی سروو موتور و کنترل زاویه‌ای  
-- راه‌اندازی LCD کاراکتری برای نمایش اطلاعات  
-- راه‌اندازی و کنترل بازوی رباتیک با استفاده از آردوینو  
+- Basic introduction to microcontrollers and the Arduino platform  
+- Arduino programming using the C++ language  
+- Fundamentals of working with Arduino hardware  
+- Interfacing with sensors and modules  
+- Driving and controlling the speed of DC motors  
+- Controlling servo motors with precise angle positioning  
+- Using character LCDs to display data  
+- Building and controlling a robotic arm using Arduino  
 
 ---
 
-## 🧰 Requirements | پیش‌نیازها
+## 🧰 Requirements
 
-- Arduino UNO (or compatible board)  
+- Arduino UNO or any compatible board  
 - USB cable  
 - Breadboard and jumper wires  
-- Basic components: LEDs, resistors, sensors, motors, LCD, etc.  
+- Basic electronic components (LEDs, resistors, buttons, potentiometers, etc.)  
+- Various sensors (temperature, light, distance, etc.)  
+- Actuators (DC motors, servo motors, relays)  
+- 16x2 Character LCD  
 - [Arduino IDE](https://www.arduino.cc/en/software)
 
 ---
 
-## 📁 Course Structure | ساختار دوره
+## 🗂️ Course Structure
 
