@@ -33,5 +33,10 @@ Whether you're a beginner just getting started or someone looking to expand thei
 
 ---
 
-## 🗂️ Course Structure
+##⚡ Tinkercad Simulation
+You can view and simulate the Arduino project directly in your browser using Tinkercad:
+
+Join Arduino Course with a [link](https://www.tinkercad.com/joinclass/KD54P7ADW) or enter this Class Code KD54P7ADW
+
+
 
