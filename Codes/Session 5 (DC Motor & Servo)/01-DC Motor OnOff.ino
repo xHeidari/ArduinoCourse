@@ -1,4 +1,4 @@
-//using IRF520N MOSFET
+//using IRF520N MOSFET Arduino pin connected to Gate
 void setup()
 {
   pinMode(3, OUTPUT);
